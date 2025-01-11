@@ -1,0 +1,11 @@
+Source: Youtube Video
+Video Name: Automatic Exploratory Data Analysis in Python
+Channel Name: Codanics
+Python Version: 3 (conda environment)
+
+---------------------------------------------------------------
+Github Repository Link: https://github.com/MumtazGeographer/AutomaticExploratory_DataAnalysis.git
+Pycharm Project Link: D:\2_DIGITAL_LIBRARY\1 DP 100 Course Certification\1_AutomaticExploray_DataAnalysis
+---------------------------------------------------------------
+
+
